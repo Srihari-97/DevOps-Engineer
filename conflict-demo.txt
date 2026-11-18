@@ -1,1 +1,1 @@
-Employee salary is 50000
+Employee salary is 55000
